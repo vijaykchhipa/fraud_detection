@@ -10,7 +10,10 @@ def model2():
 
 
 def model3():
-    print("adding code for ML model 3")
+    print("adding coding for ML model 3")
 
 
 print("model 2 is performing best")
+
+
+print("testing merge with conflicts")
